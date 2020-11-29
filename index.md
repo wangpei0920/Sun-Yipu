@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+---
+<i class="far fa-address-card fa-3x"></i>title: 王培
+tags: 个人网页，个人简介，GitHub
+renderNumberedHeading: true
+grammar_cjkRuby: true
+---
+![NJUST](https://wx1.sinaimg.cn/mw1024/6fa6f4e3ly1gkq2hlteczj218w0u0n9i.jpg)
 
-You can use the [editor on GitHub](https://github.com/wangpei0920/0121/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<i class="far fa-address-card"></i> - **个人信息**
+   
+ <i class="fas fa-smile"></i>**姓名：王培** 
+<i class="far fa-building"></i> **学校：南京理工大学**
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>“A consistent experience is a better experience.” — Mark Eberman
 
-### Markdown
+<i class="far fa-compass"></i>
+<i class="far fa-address-card"></i>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![表格](./attachments/1606639921187.table.html)
 
-# Header 1
-## Header 2
-### Header 3
+![绘图](./attachments/1606640369134.drawio.html)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangpei0920/0121/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
